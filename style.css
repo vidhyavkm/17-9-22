@@ -1,0 +1,28 @@
+input{
+    border-radius: 10px;
+    border-color:blueviolet;
+    border-width:5px;
+    width:200px;
+    height:25px;
+}
+button{
+    color: black;
+    width:100px;
+    height:30px;
+}
+h1{
+    color:deeppink;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100px;
+}
+body{
+    background-color: aquamarine;
+    background-image:url(https://medlineplus.gov/images/COVID19_share.jpg)
+}
+#active{
+    margin:50px;
+    font-style: italic;
+    font-size: 30px;
+    color:blueviolet;
+   size: 10px;
+}

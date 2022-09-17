@@ -1,0 +1,8 @@
+async/await=> fetch ... it is an alternative for fetch.
+syntatci sugar=> easy way to write the code.
+
+async is also returns always a promise.
+
+await is a replacement for .then
+
+asnc /await => try/catch
